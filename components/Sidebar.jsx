@@ -18,21 +18,25 @@ const Sidebar = ({ children }) => {
 						</div>
 					</Link>
 					<span className="border-b-[1.5px] border-gray-100 w-full p-2"></span>
+					{/* Dashboard */}
 					<Link href="/customers">
 						<div className="bg-gray-200 hover:bg-gray-300 cursor-pointer my-4 p-3 rounded-lg inline-block">
 							<RxDashboard size={20} />
 						</div>
 					</Link>
+					{/* Person */}
 					<Link href="/person">
 						<div className="bg-gray-200 hover:bg-gray-300 cursor-pointer my-4 p-3 rounded-lg inline-block">
 							<RxPerson size={20} />
 						</div>
 					</Link>
+					{/* Orders */}
 					<Link href="/orders">
 						<div className="bg-gray-200 hover:bg-gray-300 cursor-pointer my-4 p-3 rounded-lg inline-block">
 							<HiOutlineShoppingBag size={20} />
 						</div>
 					</Link>
+					{/* Settings */}
 					<Link href="/settings">
 						<div className="bg-gray-200 hover:bg-gray-300 cursor-pointer my-4 p-3 rounded-lg inline-block">
 							<FiSettings size={20} />
