@@ -13,6 +13,12 @@ Key metrics displayed on the dashboard include:
 
 Please note that this application is currently populated with dummy data for illustrative purposes.
 
+<img width="2031" alt="Dashborad Screenshot" src="https://github.com/sher85/NEXT.JS-User-Dashboard-Tutorial/assets/32082005/b00a967a-d5fa-4415-9de3-a754fcd59af2">
+
+<img width="2035" alt="Customers Screenshot" src="https://github.com/sher85/NEXT.JS-User-Dashboard-Tutorial/assets/32082005/581c5f0f-722e-4221-8727-fb12b65e1fa1">
+
+<img width="2036" alt="Orders Screenshot" src="https://github.com/sher85/NEXT.JS-User-Dashboard-Tutorial/assets/32082005/a13fc6a1-0f58-405a-a1f2-d0a164013d42">
+
 ## Tech Stack
 
 The application is built using the following technologies:
