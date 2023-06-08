@@ -66,7 +66,3 @@ We welcome contributions to the Website Financial Metrics Dashboard! Please see 
 ## License
 
 This project is licensed under the terms of the MIT license. See the [LICENSE](LICENSE.md) file for details.
-
-## Inspiration
-
-This project was originally inspired by [Code Commerce's video](https://www.youtube.com/watch?v=KpGZjrrS3pY).
