@@ -11,7 +11,7 @@ Key metrics displayed on the dashboard include:
 - Number of Customers
 - Number of Orders
 
-Please note that this application is currently populated with dummy data for illustrative purposes.
+Please note that this application is currently populated with dummy data for illustrative purposes. The dummy data can be replaced with a reference to an API that provides the data if desired.
 
 <img width="2031" alt="Dashborad Screenshot" src="https://github.com/sher85/Financial-Dashboard/assets/32082005/afe5401a-7f12-4d18-83ba-92c3824314e7">
 
